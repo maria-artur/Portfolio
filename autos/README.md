@@ -21,7 +21,7 @@
 
 ### Итоги
 
-- Обучены линейные модели LinearRegression, DecisionTreeRegressor, CatBoostRegressor
+- Обучены линейные модели LinearRegression, DecisionTreeRegressor, CatBoostRegressor, LGBMRegressor
 - Метрика RMSE на тестовой выборке для CatBoostRegressor **1390.1** 
 - Наиболее важными признаками являются: год регистрации, мощность, марка, пробег
 
