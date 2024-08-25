@@ -21,7 +21,7 @@
         -  DecisionTreeRegressor
         -  RandomForestRegressor
         -  LinearRegression
-        -  Обучение и сравнение моделей. Вывод
+        -  Обучение и сравнение моделей. Вывод  
     3.3  Проверка лучшей модели на тестовой выборке
 
 ### Итоги
